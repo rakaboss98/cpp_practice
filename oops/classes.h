@@ -25,3 +25,22 @@ public:
         cout << "The name of the dog is: " << name << endl;
     }
 };
+
+// How a parent class and protected class looks like
+class Parent{
+protected:
+    string name = "";
+
+    void display(){
+        cout << "Name: "<< name<< endl;
+    }
+};
+
+class Child: Parent{
+public:
+    // The name and display can only be accessed by the subclass
+    void display_function(){
+        name = "Rakshit";
+        display();
+    }
+};
