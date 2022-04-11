@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__cpp_oops_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_oops" -B"/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_oops/cmake-build-debug"
+  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_practice/cpp_oops" -B"/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_practice/cpp_oops/cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 

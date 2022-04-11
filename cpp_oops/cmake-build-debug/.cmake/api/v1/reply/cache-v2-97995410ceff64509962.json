@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_oops/cmake-build-debug"
+			"value" : "/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_practice/cpp_oops/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -139,10 +139,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "STRING",
 			"value" : "/usr/bin/g++"
 		},
 		{
@@ -235,10 +235,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "STRING",
 			"value" : "/usr/bin/gcc"
 		},
 		{
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_oops"
+			"value" : "/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_practice/cpp_oops"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_oops/cmake-build-debug"
+			"value" : "/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_practice/cpp_oops/cmake-build-debug"
 		},
 		{
 			"name" : "cpp_oops_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_oops"
+			"value" : "/Users/rakshitbhatt/Documents/GalaxEye /C++ Coding/cpp_practice/cpp_oops"
 		}
 	],
 	"kind" : "cache",
